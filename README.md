@@ -1,4 +1,4 @@
-# 2Market
+# 2Market (68%)
 Exploratory data analysis and insights from the 2Market project, part of the LSE Data Analytics programme.
 
 ## Project Overview
